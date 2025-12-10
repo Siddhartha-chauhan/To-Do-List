@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Node packages (in case you add them later)
+node_modules/
+
+# Build folders (if you ever add a bundler)
+dist/
+build/
+
+# Environment files (unused but safe)
+.env
