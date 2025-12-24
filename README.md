@@ -44,6 +44,7 @@ Just:
 
 1. Download or clone the repo  
 2. Open `index.html` in your browser  
-3. That's it!   
-
 ---
+
+## Live Demo
+Check out the live version of this project: https://siddhartha-chauhan.github.io/To-Do-List/
